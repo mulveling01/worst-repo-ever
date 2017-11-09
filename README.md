@@ -1,3 +1,3 @@
 # worst-repo-ever
 foo bar baz qux quux corge grault garply
-xyzzy thud
+waldo fred xyzzy thud
